@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import warnings
 warnings.simplefilter("ignore", category=FutureWarning)
 warnings.simplefilter("ignore", category=DeprecationWarning)
